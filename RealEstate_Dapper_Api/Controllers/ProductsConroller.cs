@@ -28,5 +28,5 @@ namespace RealEstate_Dapper_Api.Controllers
             return Ok(values);  
         }
     }
-    
+
 }
